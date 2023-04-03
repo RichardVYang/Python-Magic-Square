@@ -47,4 +47,3 @@ class RuleManager:
                 break
 
         return next
-git
